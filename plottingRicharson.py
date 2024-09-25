@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 # Autor: Zamudio Romero Ariel Rodolfo
 # email: zamromxd@gmail.com
 # GNU/GPL License
